@@ -1,2 +1,0 @@
-# neha-project-
-Django final 
